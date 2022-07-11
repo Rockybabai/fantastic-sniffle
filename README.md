@@ -1,2 +1,4 @@
 # fantastic-sniffle
-PUBG
+PUBG MOBILE
+Free events 
+
